@@ -1,0 +1,7 @@
+{
+  "name": "Luminescent Particles Tree",
+  "description": "A 3D interactive particle tree. Open your hand to disperse the particles, close your hand to form the tree.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
